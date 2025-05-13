@@ -92,11 +92,6 @@ This guide automates the setup of a single-node OpenStack controller using **Pac
 
 ---
 
-## 📸 Screenshots
-
-> *(Include any screenshots showing Horizon UI, network setup, or service status)*
-
----
 
 ## 📁 Resources
 
